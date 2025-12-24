@@ -1,0 +1,18 @@
+body{
+  font-family: Arial, sans-serif;
+  margin: 15px;
+}
+input{
+  width: 100%;
+  padding: 10 px;
+  margin-bottom: 15 px;
+  font-size: 15 px;
+}
+.article{
+  border-buttom: 2px solid: #ddd;
+  padding: 8px 0;
+}
+mark {
+  background-color: blue;
+}
+  
